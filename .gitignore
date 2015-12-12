@@ -25,3 +25,6 @@ jruby/
 rim/
 symbian/
 zxing.appspot.com/
+.DS_Store
+.idea/
+.gradle/
