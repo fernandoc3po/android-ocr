@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/rsubramanian/dev/Repos/GitHub/android-ocr/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Users/rsubramanian/dev/Repos/GitHub/android-ocr/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.1.1_8813abd803099f076061fa9b2818e9af8cc8e2c3.jar" />
+    </item>
+    <item
+        jar="/Users/rsubramanian/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/Users/rsubramanian/dev/Repos/GitHub/android-ocr/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.1_cdb4b2be2aea589c315fc51df37e349016800399.jar" />
+    </item>
+    <item
+        jar="/Users/rsubramanian/dev/Repos/GitHub/android-ocr/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/rsubramanian/dev/Repos/GitHub/android-ocr/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.1.1_c6449fc62af2424751622abaa6cf56f43faae60c.jar" />
+    </item>
+    <item
+        jar="/Users/rsubramanian/dev/Repos/GitHub/android-ocr/app/libs/microsoft-translator-java-api-0.6-mod.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="176df3274c901602fe2b6c345326a6990be557b9">
+        <dex dex="/Users/rsubramanian/dev/Repos/GitHub/android-ocr/app/build/intermediates/pre-dexed/debug/microsoft-translator-java-api-0.6-mod_0469d7ef5ed7adddd570dc8edd871458b420a172.jar" />
+    </item>
+    <item
+        jar="/Users/rsubramanian/dev/Repos/GitHub/android-ocr/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/rsubramanian/dev/Repos/GitHub/android-ocr/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1_571f60e1bb82e041d5f8a4c1520613603fc8d58c.jar" />
+    </item>
+    <item
+        jar="/Users/rsubramanian/dev/Repos/GitHub/android-ocr/app/libs/json_simple-1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5e303a03d04e6788dddfa3655272580ae0fc13bb">
+        <dex dex="/Users/rsubramanian/dev/Repos/GitHub/android-ocr/app/build/intermediates/pre-dexed/debug/json_simple-1.1_e6dcd8b05f48d5beec095572ad714303d030e717.jar" />
+    </item>
+    <item
+        jar="/Users/rsubramanian/dev/Repos/GitHub/android-ocr/app/libs/google-api-translate-java-0.98-mod2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2eda6905f8b719be023772e5c738d93c6b77210b">
+        <dex dex="/Users/rsubramanian/dev/Repos/GitHub/android-ocr/app/build/intermediates/pre-dexed/debug/google-api-translate-java-0.98-mod2_564d6dd1e8be48eca0b4926b4352088f15bad42f.jar" />
+    </item>
+    <item
+        jar="/Users/rsubramanian/dev/Repos/GitHub/android-ocr/app/build/intermediates/exploded-aar/tess-two-1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d222a6fab90ec0a801910c590e08390a8c1d4eae">
+        <dex dex="/Users/rsubramanian/dev/Repos/GitHub/android-ocr/app/build/intermediates/pre-dexed/debug/intermediates-exploded-aar-tess-two-1.0_22aa917c3ae0ed57942a333d1e344a1c50dccb1c.jar" />
+    </item>
+    <item
+        jar="/Users/rsubramanian/dev/Repos/GitHub/android-ocr/app/libs/jtar-1.0.4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b6ff62805312c9384c2f4cc21a6367b74fd2bbd7">
+        <dex dex="/Users/rsubramanian/dev/Repos/GitHub/android-ocr/app/build/intermediates/pre-dexed/debug/jtar-1.0.4_c35ce7137044503c2a363e9de5903476e294b054.jar" />
+    </item>
+
+</items>
